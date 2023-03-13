@@ -25,6 +25,6 @@ However despite all mentioned benefits of the new ROS, due to better resources a
 here is some commands and hint i find useful which i will review and rewrite in better format later:
 
 1- "roscore" to Lunch the ROS and "killall -9 rosmaster" && "killall -9 roscore" to end it <br/>
-2- "rqt_graph" is used to show the relation between topics in diagrame.
-3- "rostopic list -v" list of topics.
-4- This is the format that is used to present topic and message type: "/topic_name [message_type]" 
+2- "rqt_graph" is used to show the relation between topics in diagrame. <br/>
+3- "rostopic list -v" list of topics. <br/>
+4- This is the format that is used to present topic and message type: "/topic_name [message_type]"  <br/>
